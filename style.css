@@ -87,6 +87,16 @@ img.images {
     width: 25%;
     padding: 0px 10px;
     /* height: 12%; */
+    height: 201px;
+    width: 300px;
+}
+p.elements {
+    position: absolute;
+    margin-left: 10px;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    padding: 5px;
 }
 
 /*font-size: 17px;

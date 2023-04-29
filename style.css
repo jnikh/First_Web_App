@@ -24,6 +24,7 @@ h1.heading-container {
     margin: 7px 62px;
     padding: 10px;
     font-size: 17px;
+    letter-spacing: 7px;
 }
 nav.navigation-container {
     margin: 16px;
@@ -84,11 +85,9 @@ p.section-paragraph {
     /* margin: 30px 0px; */
 }
 img.images {
-    width: 25%;
     padding: 0px 10px;
-    /* height: 12%; */
-    height: 201px;
-    width: 300px;
+    height: 207px;
+    width: 369px;
 }
 p.elements {
     position: absolute;
@@ -99,10 +98,20 @@ p.elements {
     padding: 5px;
 }
 
-/*font-size: 17px;
-    position: absolute;
-    background-color: black;
-    color: white;
-    margin: 0px 10px;
-    padding: 9px;
-}*/
+.image-row.image-flow {
+    flex-direction: row-reverse;
+    margin: 20px 0;
+}
+/* Third section */
+.section-container {
+    display: block;
+    margin: 15px 33px;
+}
+h1.heading {
+    font-weight: 100;
+    font-size: 28px;
+    padding: 26px 5px;
+}p.paragraph-contains {
+    font-size: 15px;
+    margin: 0 0 20px 0;
+}

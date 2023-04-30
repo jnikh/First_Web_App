@@ -115,3 +115,58 @@ h1.heading {
     font-size: 15px;
     margin: 0 0 20px 0;
 }
+
+/*  
+.image-container.img-cont {
+    margin: 40px 36px;
+}
+.image-container.img-cont img {
+    width: 24%;
+    height: 250px;
+    opacity: 0.;
+    
+    filter: grayscale(75%);*/
+
+/*part*/
+.format {
+    margin: 30px;
+    width: 25%;
+}
+img.image-format {
+    width: 100%;
+    filter: grayscale(75%);
+    height: 220px;
+}
+h1.name {
+    font-weight: 100;
+    padding: 20px 0;
+    font-size: 22px;
+}
+h2.proffesion {
+    padding: 15px 0;
+    font-size: 15px;
+    opacity: 0.50;
+}
+p.paragraph {
+    font-size: 15px;
+    padding: 15px 0;
+}
+button.button {
+    width: 100%;
+    font-size: 17px;
+    /* font-weight: bolder; */
+    text-align: center;
+    padding: 10px 0px;
+    border: none;
+    color: #000!important;
+    background-color: #f1f1f1!important;
+    cursor:pointer
+    
+}
+
+button.button:hover {
+    color: #000!important;
+    background-color: #ccc!important;
+}
+
+ 
